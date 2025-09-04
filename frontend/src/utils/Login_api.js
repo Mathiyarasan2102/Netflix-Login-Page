@@ -1,1 +1,1 @@
-export const LOGIN_API = "http://localhost:3000/login";
+export const LOGIN_API = "https://netflix-login-page-tgnu.vercel.app/login";
